@@ -82,7 +82,7 @@ void hill(char *in, char *out, int enc, int orig_len) {
 }
 
 int main() {
-  char msg[100] = "SAVEETHA";
+  char msg[100] = "MADHANRAJ";
   int orig_len = strlen(msg);
 
   char enc[100], dec[100];
@@ -92,7 +92,7 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="1750" height="832" alt="Screenshot 2025-09-12 083619" src="https://github.com/user-attachments/assets/6270b3dd-35d4-48b5-91b8-765e07b0c0b3" />
+<img width="1729" height="816" alt="Screenshot 2025-09-19 092447" src="https://github.com/user-attachments/assets/533cdaa9-a704-4c11-9024-e41ceef813d4" />
 
 
 ## RESULT
